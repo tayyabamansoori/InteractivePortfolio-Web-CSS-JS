@@ -1,6 +1,9 @@
 # 🌟 Interactive Portfolio 🌟  
 A beautifully designed **personal portfolio** showcasing my skills, projects, and experience using **HTML, CSS, and JavaScript**.  
 
+## 📸 Live Demo  
+🔗 [View Portfolio]([https://your-live-portfolio-link.com](https://tayyabamansoori.github.io/InteractivePortfolio-Web-CSS-JS/))  
+
 ## 🚀 Features  
 ✅ Fully Responsive Design  
 ✅ Interactive UI with Smooth Animations  
